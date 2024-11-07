@@ -1,3 +1,7 @@
+
+![nyc airbnb](https://github.com/user-attachments/assets/a933bdfa-9e3f-4402-8204-b6d1e3711603)
+
+
 # Data Cleaning Project - Oasis Infobyte Internship
 
 ## Description
@@ -40,5 +44,5 @@ To run this project locally, you'll need to have Python and the required librari
 ## Files
 
 1. New York Airbnb Listings Data Cleaning.ipynb: Jupyter Notebook containing the steps for cleaning the dataset.
-2. Readme: List of Python libraries required to run the project.
+2. Readme: Details about the project.
 3. data/: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
